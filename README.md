@@ -27,8 +27,8 @@ Destroy all the windows and end the program.
 
 ## Program:
 ```python
-# Developed By:A K MOHAN RAJ
-# Register Number:212221230064
+# Developed By:SARVESHKARAN V K
+# Register Number:212221230089
 # i) Convert BGR and RGB to HSV and GRAY.
 import cv2
 houseImage = cv2.imread('dog.jpg')
